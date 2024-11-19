@@ -651,7 +651,7 @@ session_start();
 
     <!-- Quote End -->
 
-    <!-- Project Start -->
+    <!-- Service Start -->
     <div class="container-fluid project py-5 mb-5">
         <div class="container">
             <div class="text-center mx-auto pb-5 wow fadeIn" data-wow-delay=".3s" style="max-width: 600px;">
@@ -662,11 +662,11 @@ session_start();
                 <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
                     <div class="project-item">
                         <div class="project-img">
-                            <img src="img/project-1.jpg" class="img-fluid w-100 rounded" alt="">
+                            <img src="img/code.jpg" class="img-fluid w-100 rounded" alt="">
                             <div class="project-content">
                                 <a href="#" class="text-center">
-                                    <h4 class="text">Web design</h4>
-                                    <p class="m-0 text-white">Web Analysis</p>
+                                    <h4 class="text">Software development</h4>
+                                    <p class="m-0 text-white">development </p>
                                 </a>
                             </div>
                         </div>
@@ -678,8 +678,8 @@ session_start();
                             <img src="img/project-2.jpg" class="img-fluid w-100 rounded" alt="">
                             <div class="project-content">
                                 <a href="#" class="text-center">
-                                    <h4 class="text">Cyber Security</h4>
-                                    <p class="m-0 text-white">Cyber Security Core</p>
+                                    <h4 class="text">Professional IT Training </h4>
+                                    <p class="m-0 text-white">IT training</p>
                                 </a>
                             </div>
                         </div>
@@ -688,11 +688,11 @@ session_start();
                 <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
                     <div class="project-item">
                         <div class="project-img">
-                            <img src="img/project-3.jpg" class="img-fluid w-100 rounded" alt="">
+                            <img src="img/camera.jpeg" class="img-fluid w-100 rounded" alt="">
                             <div class="project-content">
                                 <a href="#" class="text-center">
-                                    <h4 class="text">Mobile Info</h4>
-                                    <p class="m-0 text-white">Upcomming Phone</p>
+                                    <h4 class="text">Photography and videography</h4>
+                                    <p class="m-0 text-white">photography</p>
                                 </a>
                             </div>
                         </div>
@@ -701,11 +701,11 @@ session_start();
                 <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
                     <div class="project-item">
                         <div class="project-img">
-                            <img src="img/project-4.jpg" class="img-fluid w-100 rounded" alt="">
+                            <img src="img/branding.jpg" class="img-fluid w-100 rounded" alt="">
                             <div class="project-content">
                                 <a href="#" class="text-center">
-                                    <h4 class="text">Web Development</h4>
-                                    <p class="m-0 text-white">Web Analysis</p>
+                                    <h4 class="text">Logo and personal branding</h4>
+                                    <p class="m-0 text-white">Branding</p>
                                 </a>
                             </div>
                         </div>
@@ -714,11 +714,11 @@ session_start();
                 <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
                     <div class="project-item">
                         <div class="project-img">
-                            <img src="img/project-5.jpg" class="img-fluid w-100 rounded" alt="">
+                            <img src="img/datascience.jpg" class="img-fluid w-100 rounded" alt="">
                             <div class="project-content">
                                 <a href="#" class="text-center">
-                                    <h4 class="text">Digital Marketing</h4>
-                                    <p class="m-0 text-white">Marketing Analysis</p>
+                                    <h4 class="text">Data sciences / Analysis </h4>
+                                    <p class="m-0 text-white">Data</p>
                                 </a>
                             </div>
                         </div>
@@ -727,11 +727,11 @@ session_start();
                 <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
                     <div class="project-item">
                         <div class="project-img">
-                            <img src="img/project-6.jpg" class="img-fluid w-100 rounded" alt="">
+                            <img src="img/design.jpg" class="img-fluid w-100 rounded" alt="">
                             <div class="project-content">
                                 <a href="#" class="text-center">
-                                    <h4 class="text">keyword Research</h4>
-                                    <p class="m-0 text-white">keyword Analysis</p>
+                                    <h4 class="text">Graphic and UI/UX design </h4>
+                                    <p class="m-0 text-white">Graphic</p>
                                 </a>
                             </div>
                         </div>
@@ -740,7 +740,8 @@ session_start();
             </div>
         </div>
     </div>
-    <!-- Project End -->
+
+    <!-- Service End -->
 
 
     <!-- Latest Projects-->

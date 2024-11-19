@@ -96,7 +96,7 @@
                 <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
                     <div class="project-item">
                         <div class="project-img">
-                            <img src="img/project-1.jpg" class="img-fluid w-100 rounded" alt="">
+                            <img src="img/code.jpg" class="img-fluid w-100 rounded" alt="">
                             <div class="project-content">
                                 <a href="#" class="text-center">
                                     <h4 class="text">Software development</h4>
@@ -122,7 +122,7 @@
                 <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
                     <div class="project-item">
                         <div class="project-img">
-                            <img src="img/project-3.jpg" class="img-fluid w-100 rounded" alt="">
+                            <img src="img/camera.jpeg" class="img-fluid w-100 rounded" alt="">
                             <div class="project-content">
                                 <a href="#" class="text-center">
                                     <h4 class="text">Photography and videography</h4>
@@ -135,7 +135,7 @@
                 <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
                     <div class="project-item">
                         <div class="project-img">
-                            <img src="img/project-4.jpg" class="img-fluid w-100 rounded" alt="">
+                            <img src="img/branding.jpg" class="img-fluid w-100 rounded" alt="">
                             <div class="project-content">
                                 <a href="#" class="text-center">
                                     <h4 class="text">Logo and personal branding</h4>
@@ -148,7 +148,7 @@
                 <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
                     <div class="project-item">
                         <div class="project-img">
-                            <img src="img/project-5.jpg" class="img-fluid w-100 rounded" alt="">
+                            <img src="img/datascience.jpg" class="img-fluid w-100 rounded" alt="">
                             <div class="project-content">
                                 <a href="#" class="text-center">
                                     <h4 class="text">Data sciences / Analysis </h4>
@@ -161,7 +161,7 @@
                 <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
                     <div class="project-item">
                         <div class="project-img">
-                            <img src="img/project-6.jpg" class="img-fluid w-100 rounded" alt="">
+                            <img src="img/design.jpg" class="img-fluid w-100 rounded" alt="">
                             <div class="project-content">
                                 <a href="#" class="text-center">
                                     <h4 class="text">Graphic and UI/UX design </h4>

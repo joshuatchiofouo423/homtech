@@ -133,7 +133,7 @@
                 <h1 class="mb-0">News about editions</h1>
             </div>
             <div class="isotope-filters isotope-filters-horizontal">
-                <button class="isotope-filters-toggle button button-md button-icon button-icon-right button-default-outline button-wapasha" data-custom-toggle="#isotope-3" data-custom-toggle-hide-on-blur="true" data-custom-toggle-disable-on-blur="true"><span class="icon fa fa-caret-down"></span>Filter</button>
+                <button class="isotope-filters-toggle button button-md button-icon button-icon-right button-default-outline button-wapasha" data-custom-toggle="#isotope-3" data-custom-toggle-hide-on-blur="true" data-custom-toggle-disable-on-blur="true"><span class="icon fa fa-caret-down"></span>Select your edition</button>
                 <ul class="isotope-filters-list" id="isotope-3">
                     <!-- <li><a class="active" href="#" data-isotope-filter="*" data-isotope-group="gallery">First edition</a></li> -->
                     <li><a href="#" class="active" data-isotope-filter="Type 1" data-isotope-group="gallery">First edition</a></li>
@@ -438,7 +438,7 @@
                     <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Newsletter</div>
                     <h1 class="text-white mb-4">Let's subscribe the newsletter</h1>
                     <a href="register.php" class="position-relative w-100 mt-3 mb-2">
-                        <button class="border-0 rounded-pill w-50 ps-4 pe-5" style="height: 48px;display: flex;justify-content: space-between;align-items: center;background-color:var(--secondary);color:white;">Just subscribe now<i
+                        <button class="border-0 rounded-pill w-50 ps-4 pe-5" style="height: 48px;display: flex;justify-content: space-between;align-items: center;background-color:var(--secondary);color:white;"> subscribe <i
                                 class="fa fa-paper-plane text-primary fs-4"></i></button>
                     </a>
                 </div>

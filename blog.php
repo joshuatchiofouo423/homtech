@@ -11,6 +11,8 @@
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
 
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
+
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -334,7 +336,7 @@
 
 
     <!-- Service Start -->
-    <div class="container-fluid project py-5 mb-5">
+    <!-- <div class="container-fluid project py-5 mb-5">
         <div class="container">
             <div class="text-center mx-auto pb-5 wow fadeIn" data-wow-delay=".3s" style="max-width: 600px;">
                 <h5 class="text-primary">Our service</h5>
@@ -412,6 +414,96 @@
                             <img src="img/graphic.jpg" class="img-fluid w-100 rounded" alt="">
                             <div class="project-content">
                                 <a href="#" class="text-center">
+                                    <h4 class="text">Graphic and UI/UX design </h4>
+                                    <p class="m-0 text-white">Graphic</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+
+
+    <div class="container-fluid project py-5 mb-5">
+        <div class="container">
+            <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
+                <h5 class="fw-bold text-primary text-uppercase">Our service</h5>
+                <h1 class="mb-0">Specialized Services for Your Business</h1>
+            </div>
+            <div class="row g-5">
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/code.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="detail.php" class="text-center">
+                                    <h4 class="text">Software development</h4>
+                                    <p class="m-0 text-white">development </p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/project-2.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="detail.php" class="text-center">
+                                    <h4 class="text">Professional IT Training </h4>
+                                    <p class="m-0 text-white">IT training</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/camera.jpeg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="detail.php" class="text-center">
+                                    <h4 class="text">Photography and videography</h4>
+                                    <p class="m-0 text-white">photography</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/branding.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="detail.php" class="text-center">
+                                    <h4 class="text">Logo and personal branding</h4>
+                                    <p class="m-0 text-white">Branding</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/datascience.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="detail.php" class="text-center">
+                                    <h4 class="text">Data sciences / Analysis </h4>
+                                    <p class="m-0 text-white">Data</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/design.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="detail.php" class="text-center">
                                     <h4 class="text">Graphic and UI/UX design </h4>
                                     <p class="m-0 text-white">Graphic</p>
                                 </a>

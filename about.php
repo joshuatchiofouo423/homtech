@@ -59,9 +59,6 @@
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
                     <h1 class="display-4 text-white animated zoomIn">About Us</h1>
-                    <a href="" class="h5 text-white">Home</a>
-                    <i class="far fa-circle text-white px-2"></i>
-                    <a href="" class="h5 text-white">About</a>
                 </div>
             </div>
         </div>
@@ -92,11 +89,12 @@
         <div class="container py-5">
             <div class="row g-5">
                 <div class="col-lg-7">
-                    <div class="section-title position-relative pb-3 mb-5">
+                    <div class="section-title text-center position-relative pb-3 mb-5">
                         <h5 class="fw-bold text-primary text-uppercase">About Us</h5>
-                        <h1 class="mb-0">The Best IT Solution With 3 Years of Experiences</h1>
+                        <h1 class="mb-0"> Welcome to HOMTECH – Where we transform ideas into captivating realities </h1>
                     </div>
-                    <p class="mb-4">At HomTech, we specialize in delivering cutting-edge technology solutions to help businesses thrive in a digital world. Our team is dedicated to transforming ideas into powerful, scalable digital products that drive growth, efficiency, and competitive advantage. Whether you're looking for robust software development, IT consulting, or secure infrastructure solutions, HomTech has the expertise to meet your unique needs.</p>
+                    <p class="mb-4">At HOMTECH, we don’t just embrace technology – we create it. We are a forward-thinking company dedicated to transform the way you experience the world of home technology. With a passion for innovation and a commitment to quality, we design and deliver cutting-edge solutions that enhance comfort, convenience, and security in your everyday life.</p>
+                    <p class="mb-4">Founded on the belief that the future of technology should be intuitive, accessible, and seamless, HOMTECH has quickly become a leader in creating smart, reliable solutions that empower you to take control of your home like never before. From state-of-the-art home automation systems to high-performance security technologies, our products are built with you in mind.</p>
                     <div class="row g-0 mb-3">
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
                             <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Award Winning</h5>
@@ -107,18 +105,7 @@
                             <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Fair Prices</h5>
                         </div>
                     </div>
-                    <div class="d-flex align-items-center mb-4 wow fadeIn" data-wow-delay="0.6s">
-                        <div class="bg-primary d-flex align-items-center justify-content-center rounded" style="width: 60px; height: 60px;">
-                            <i class="fa fa-phone-alt text-white"></i>
-                        </div>
-                        <div class="ps-4">
-                            <h5 class="mb-2">Call for your quote</h5>
-                            <h4 class="text-primary mb-0">+237 6 93 31 44 34
 
-                            </h4>
-                        </div>
-                    </div>
-                    <a href="quote.html" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Request A Quote</a>
                 </div>
                 <div class="col-lg-5" style="min-height: 500px;">
                     <div class="position-relative h-100">
@@ -137,8 +124,8 @@
         <div class="container pb-5">
             <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
                 <h4 class="text-primary">Our Team</h4>
-                <h1 class="display-5 mb-4">Meet Our Advisers</h1>
-                <p class="mb-0">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur adipisci facilis cupiditate recusandae aperiam temporibus corporis itaque quis facere, numquam, ad culpa deserunt sint dolorem autem obcaecati, ipsam mollitia hic.
+                <h1 class="display-5 mb-4">Meet Our Experienced Team</h1>
+                <p class="mb-0">At HOMTECH, our team is our greatest asset—a diverse group of passionate, innovative individuals committed to transforming home technology. From engineers and designers to customer support, each member plays a vital role in creating groundbreaking solutions that enhance smart living. United by a shared goal, we focus on collaboration, innovation, and delivering exceptional results to make your home smarter, safer, and more connected. Together, we’re not just shaping the future of technology; we’re building a future where your home works for you.
                 </p>
             </div>
             <div class="row g-4">

@@ -57,9 +57,6 @@
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
                     <h1 class="display-4 text-white animated zoomIn">Services</h1>
-                    <a href="" class="h5 text-white">Home</a>
-                    <i class="far fa-circle text-white px-2"></i>
-                    <a href="" class="h5 text-white">Services</a>
                 </div>
             </div>
         </div>
@@ -88,9 +85,9 @@
 
     <div class="container-fluid project py-5 mb-5">
         <div class="container">
-            <div class="text-center mx-auto pb-5 wow fadeIn" data-wow-delay=".3s" style="max-width: 600px;">
-                <h5 class="text-primary">Our service</h5>
-                <h1>Our Recently Completed Services</h1>
+            <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
+                <h5 class="fw-bold text-primary text-uppercase">Our service</h5>
+                <h1 class="mb-0">Specialized Services for Your Business</h1>
             </div>
             <div class="row g-5">
                 <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">

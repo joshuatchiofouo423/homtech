@@ -1,4 +1,5 @@
     <!-- Footer Start -->
+     
     <div class="container-fluid bg-dark text-light mt-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="row gx-5">
@@ -9,7 +10,7 @@
                         </a>
                         <p class="mt-3 mb-4">We are a passionate team of experts in the domain of technology, dedicated in providing innovative solutions to meet your business needs.</p>
                         <div class="d-flex mt-4" style="align-items: center!important;">
-                            <a class="btn btn-primary btn-square me-2" href="#"><img src="img/x-twitter-brands-solid.svg" alt=""></i></a>
+                            <a class="btn btn-primary btn-square me-2" href="#"><i class="fa-brands fa-x-twitter"></i></a>
                             <a class="btn btn-primary btn-square me-2" href="#"><i class="fab fa-facebook-f fw-normal"></i></a>
                             <a class="btn btn-primary btn-square me-2" href="#"><i class="fab fa-linkedin-in fw-normal"></i></a>
                             <a class="btn btn-primary btn-square" href="#"><i class="fab fa-instagram fw-normal"></i></a>
@@ -28,7 +29,7 @@
                             </div>
                             <div class="d-flex mb-2" style="align-items: center!important;">
                                 <i class="bi bi-envelope-open text-primary me-2"></i>
-                                <p class="mb-0" style="margin: 0;">Homtech@gmail.com</p>
+                                <p class="mb-0" style="margin: 0;"> homtech07@gmail.com</p>
                             </div>
                             <div class="d-flex flex-column mb-2">
                                 <span class="d-flex">

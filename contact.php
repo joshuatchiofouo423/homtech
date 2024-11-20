@@ -57,9 +57,6 @@
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
                     <h1 class="display-4 text-white animated zoomIn">Contact Us</h1>
-                    <a href="" class="h5 text-white">Home</a>
-                    <i class="far fa-circle text-white px-2"></i>
-                    <a href="" class="h5 text-white">Contact</a>
                 </div>
             </div>
         </div>
@@ -92,8 +89,13 @@
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
                 <h5 class="fw-bold text-primary text-uppercase">Contact Us</h5>
                 <h1 class="mb-0">If You Have Any Query <br>Feel Free To Contact Us</h1>
-                <p>We are a digital and technological innovation startup ready to take on any challenge</p>
             </div>
+            <div class="row g-5 mb-5">
+                <p>At HOMTECH, we're always excited to hear from you! Whether you have a question, need support, or want to explore innovative solutions for your tech needs, we’re here to help. Your feedback, ideas, and inquiries are what fuel our passion for progress.
+                    We believe in building lasting relationships and are committed to offer personalized service that exceeds expectations. Connect with us, and let’s work together to bring your visions to life through cutting-edge technology.
+                </p>
+            </div>
+
             <div class="row g-5 mb-5" style="display: flex;align-items:center;">
                 <div class="col-lg-4">
                     <div class="d-flex align-items-center wow fadeIn" data-wow-delay="0.1s">
